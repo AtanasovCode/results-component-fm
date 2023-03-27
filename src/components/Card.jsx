@@ -6,7 +6,8 @@ import Stats from './Stats';
 const Card = () => {
     return (
         <Styled.Container>
-
+            <Rating />
+            <Stats />
         </Styled.Container>
     );
 }

@@ -15,9 +15,14 @@ const theme = {
   lightBlue: "hsl(252, 100%, 67%)",
   royalBlue: "hsl(241, 81%, 54%)",
 
+  circleColorOne: "hsla(256, 72%, 46%, 1)",
+  circleColorTwo: "hsla(241, 72%, 46%, 0)",
+
   backgroundMain: "hsl(0, 0%, 100%)",
   backgroundCard: "hsl(221, 100%, 96%)",
   fontFaded: "hsl(241, 100%, 89%)",
+  fontColor: "hsl(0, 0%, 100%)",
+
 
   buttonColor: "hsl(224, 30%, 27%)",
 
@@ -26,7 +31,8 @@ const theme = {
   fontSemiBold: "700",
   fontBold: "800",
   fontSize: "18px",
-
+  
+  borderRadius: "20px",
 }
 
 
